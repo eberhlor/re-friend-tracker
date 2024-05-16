@@ -6,7 +6,7 @@ export class GuiModel {
 
     private _guiModel = {
         "application": {
-            "title": "Lorenz Eberhard mit der Hilfe von Joel Suhner",
+            "title": "Lorenz Eberhard mit der Hilfe von Joel",
             "formList": [
                 {
                     "id": "FriendForm",
@@ -79,7 +79,7 @@ export class GuiModel {
                         }
                     ]
                 },
-                {
+                 {
                     "id": "LocationForm",
                     "title": "Location",
                     "url": "/location",
@@ -302,12 +302,12 @@ export class GuiModel {
                             "color": "blue",
                             "search": true,
                             "url": "/friend",
-                            "page": "friendsversion2",
+                            "page": "friendspage2",
                         },
                     ]
                 },
                 {
-                    "id": "friendspageversion2",
+                    "id": "friendspage2",
                     "elementList": [
                         {
                             "type": "backbutton",
@@ -361,12 +361,12 @@ export class GuiModel {
                             "color": "blue",
                             "search": true,
                             "url": "/location",
-                            "page": "locationspageversion2",
+                            "page": "locationspage2",
                         },
                     ]
                 },
                 {
-                    "id": "locationsversion2",
+                    "id": "locationspage2",
                     "elementList": [
                         {
                             "type": "backbutton",
@@ -438,12 +438,12 @@ export class GuiModel {
                             "color": "blue",
                             "search": true,
                             "url": "/activity",
-                            "page": "activitiesversion2"
+                            "page": "activitiespage2"
                         }
                     ]   
                 },
                 {
-                    "id": "activitiesversion2",
+                    "id": "activitiespage2",
                     "elementList": [
                         {
                             "type": "backbutton",
